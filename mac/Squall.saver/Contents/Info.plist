@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>FSV_6880IKQOLAKWBGDB</string>
+	<key>CFBundleGetInfoString</key>
+	<string>1.3.5, Copyright 2005-2007 SERIALGAMES Inc.</string>
+	<key>CFBundleIdentifier</key>
+	<string>jp.co.serialgames.flashscreensaver.FSV_6880IKQOLAKWBGDB</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleLongVersionString</key>
+	<string>1.3.5, Copyright 2005-2007 SERIALGAMES Inc.</string>
+	<key>CFBundleName</key>
+	<string>Squall</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.3.5</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>1.3.5</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>© SERIALGAMES Inc., 2005-2007</string>
+	<key>NSPrincipalClass</key>
+	<string>FSV_6880IKQOLAKWBGDB</string>
+</dict>
+</plist>

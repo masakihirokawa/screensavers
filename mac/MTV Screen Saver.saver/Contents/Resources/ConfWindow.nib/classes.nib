@@ -1,0 +1,17 @@
+{
+    IBClasses = (
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {
+            ACTIONS = {closeSheet = id; uninstallSaver = id; }; 
+            CLASS = FlashScreenSaverView; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {idConfigSheet = NSWindow; idUninstallBtn = NSButton; }; 
+            SUPERCLASS = ScreenSaverView; 
+        }, 
+        {CLASS = MyWebView; LANGUAGE = ObjC; SUPERCLASS = WebView; }, 
+        {CLASS = SGClickableImageView; LANGUAGE = ObjC; SUPERCLASS = NSImageView; }, 
+        {CLASS = SGClickableTextField; LANGUAGE = ObjC; SUPERCLASS = NSTextField; }, 
+        {CLASS = ScreenSaverView; LANGUAGE = ObjC; SUPERCLASS = NSView; }
+    ); 
+    IBVersion = 1; 
+}
